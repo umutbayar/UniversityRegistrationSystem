@@ -1,0 +1,13 @@
+{
+    "studentId": "153333",
+    "firstName": "Jale",
+    "lastName": "Kara",
+    "password": "890123",
+    "address": "Istanbul, Turkey",
+    "advisorId": "160111",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 1,
+    "email": "jalekara@gmail.com",
+    "ssn": "34509876543"
+}

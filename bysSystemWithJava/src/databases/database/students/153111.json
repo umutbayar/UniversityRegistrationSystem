@@ -1,0 +1,13 @@
+{
+    "studentId": "153111",
+    "firstName": "Hakan",
+    "lastName": "Yagar",
+    "password": "678901",
+    "address": "Izmir, Turkey",
+    "advisorId": "160222",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 4,
+    "email": "hakanaydin@gmail.com",
+    "ssn": "12345098765"
+}

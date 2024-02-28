@@ -1,0 +1,13 @@
+{
+    "studentId": "154444",
+    "firstName": "Tolga",
+    "lastName": "Gül",
+    "password": "901234",
+    "address": "Antalya, Turkey",
+    "advisorId": "160444",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 3,
+    "email": "tolgagul@gmail.com",
+    "ssn": "45098765432"
+}

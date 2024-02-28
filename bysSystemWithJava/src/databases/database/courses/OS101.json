@@ -1,0 +1,8 @@
+{
+    "courseName": "Operating Systems",
+    "credits": 4,
+    "courseCode": "OS101",
+    "prerequisite": "DLD101",
+    "year": 3,
+    "courseLecturer": "160888"
+}

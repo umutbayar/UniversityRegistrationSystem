@@ -1,0 +1,13 @@
+{
+    "studentId": "153222",
+    "firstName": "Irmak",
+    "lastName": "Şahin",
+    "password": "789012",
+    "address": "Ankara, Turkey",
+    "advisorId": "160333",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 3,
+    "email": "irmaksahin@gmail.com",
+    "ssn": "23450987654"
+}

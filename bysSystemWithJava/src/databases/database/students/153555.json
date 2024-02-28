@@ -1,0 +1,13 @@
+{
+    "studentId": "153555",
+    "firstName": "Leyla",
+    "lastName": "Aydın",
+    "password": "012345",
+    "address": "Bursa, Turkey",
+    "advisorId": "160444",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 3,
+    "email": "leylaaydin@gmail.com",
+    "ssn": "50987654321"
+}

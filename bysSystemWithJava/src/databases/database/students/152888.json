@@ -1,0 +1,13 @@
+{
+    "studentId": "152888",
+    "firstName": "Furkan",
+    "lastName": "Yılmaz",
+    "password": "456789",
+    "address": "Mersin, Turkey",
+    "advisorId": "160333",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 3,
+    "email": "furkanyilmaz@gmail.com",
+    "ssn": "90123456789"
+}

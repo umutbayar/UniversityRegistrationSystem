@@ -1,0 +1,13 @@
+{
+    "studentId": "154888",
+    "firstName": "Batu",
+    "lastName": "Yılmaz",
+    "password": "345678",
+    "address": "Adana, Turkey",
+    "advisorId": "160111",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 1,
+    "email": "batuyilmaz@gmail.com",
+    "ssn": "87654321098"
+}

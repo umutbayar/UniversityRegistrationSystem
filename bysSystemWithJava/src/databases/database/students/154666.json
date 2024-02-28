@@ -1,0 +1,13 @@
+{
+    "studentId": "154666",
+    "firstName": "Oğuz",
+    "lastName": "Karahan",
+    "password": "123456",
+    "address": "Eskişehir, Turkey",
+    "advisorId": "160222",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 2,
+    "email": "oguzkarahan@gmail.com",
+    "ssn": "09876543210"
+}

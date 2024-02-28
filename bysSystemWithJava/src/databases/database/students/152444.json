@@ -1,0 +1,13 @@
+{
+    "studentId": "152444",
+    "firstName": "Bengü",
+    "lastName": "Şahin",
+    "password": "345678",
+    "address": "Antalya, Turkey",
+    "advisorId": "160111",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 1,
+    "email": "bengusahin@gmail.com",
+    "ssn": "45678901234"
+}

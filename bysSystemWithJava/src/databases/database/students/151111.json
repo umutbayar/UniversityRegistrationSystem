@@ -1,0 +1,13 @@
+{
+    "studentId": "151111",
+    "firstName": "Ceren",
+    "lastName": "Ozge",
+    "password": "luna123",
+    "address": "Istanbul, Turkey",
+    "advisorId": "160333",
+    "registeredCourses": [],
+    "birthDate": "25:03:03.567+0300",
+    "year": 3,
+    "email": "ceren_ozge@gmail.com",
+    "ssn": "99999999999"
+}

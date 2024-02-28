@@ -1,0 +1,13 @@
+{
+    "studentId": "150444",
+    "firstName": "Mehmet",
+    "lastName": "Demir",
+    "password": "xyz123",
+    "address": "İzmir, Turkey",
+    "advisorId": "160222",
+    "registeredCourses": [],
+    "birthDate": "12:08:03.567+0300",
+    "year": 2,
+    "email": "mehmetdemir@gmail.com",
+    "ssn": "33333333333"
+}

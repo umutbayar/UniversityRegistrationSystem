@@ -1,0 +1,13 @@
+{
+    "studentId": "150999",
+    "firstName": "Selma",
+    "lastName": "Şahin",
+    "password": "selma456",
+    "address": "Eskişehir, Turkey",
+    "advisorId": "160333",
+    "registeredCourses": [],
+    "birthDate": "02:05:08.456+0300",
+    "year": 3,
+    "email": "selmasahin@gmail.com",
+    "ssn": "88888888888"
+}

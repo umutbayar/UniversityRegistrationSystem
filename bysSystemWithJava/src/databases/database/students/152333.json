@@ -1,0 +1,13 @@
+{
+    "studentId": "152333",
+    "firstName": "Gizem",
+    "lastName": "Yılmaz",
+    "password": "987654",
+    "address": "Ankara, Turkey",
+    "advisorId": "160444",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 2,
+    "email": "gizemyilmaz@gmail.com",
+    "ssn": "23456789012"
+}

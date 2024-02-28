@@ -1,0 +1,13 @@
+{
+    "studentId": "150111",
+    "firstName": "Hasan",
+    "lastName": "Pekedis",
+    "password": "123456",
+    "address": "Istanbul, Turkey",
+    "advisorId": "160111",
+    "registeredCourses": [],
+    "birthDate": "13:03:01.454+0530",
+    "year": 3,
+    "email": "hasanpekedis@gmail.com",
+    "ssn": "11111111111"
+}

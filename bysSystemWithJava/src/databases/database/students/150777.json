@@ -1,0 +1,13 @@
+{
+    "studentId": "150777",
+    "firstName": "Okan",
+    "lastName": "Aydın",
+    "password": "okan789",
+    "address": "Antalya, Turkey",
+    "advisorId": "160222",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 1,
+    "email": "okanaydin@gmail.com",
+    "ssn": "66666666666"
+}

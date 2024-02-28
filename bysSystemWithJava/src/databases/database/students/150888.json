@@ -1,0 +1,13 @@
+{
+    "studentId": "150888",
+    "firstName": "Emre",
+    "lastName": "Kaya",
+    "password": "emre123",
+    "address": "Konya, Turkey",
+    "advisorId": "160222",
+    "registeredCourses": [],
+    "birthDate": "29:03:07.345+0300",
+    "year": 2,
+    "email": "emrekaya@gmail.com",
+    "ssn": "77777777777"
+}

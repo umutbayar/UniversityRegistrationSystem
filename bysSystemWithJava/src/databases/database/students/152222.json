@@ -1,0 +1,13 @@
+{
+    "studentId": "15222",
+    "firstName": "Deniz",
+    "lastName": "Kara",
+    "password": "112233",
+    "address": "Izmir, Turkey",
+    "advisorId": "160111",
+    "registeredCourses": [],
+    "birthDate": "17:09:06.234+0300",
+    "year": 1,
+    "email": "denizkara@gmail.com",
+    "ssn": "12345678901"
+}
