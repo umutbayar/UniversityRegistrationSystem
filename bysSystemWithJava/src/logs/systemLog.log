@@ -1,0 +1,10 @@
+Dec 19, 2023 5:03:56 PM LoggerSystem <init>
+INFO: New logging system started.
+Dec 19, 2023 5:03:56 PM LoginSystem startSystem
+INFO: System started successfully.
+Dec 19, 2023 5:04:05 PM LoginSystem advisorLogin
+INFO: User selected advisor to login. 
+Dec 19, 2023 5:04:13 PM LoginSystem advisorLogin
+SEVERE: Null Advisor exception.
+Dec 19, 2023 5:04:13 PM LoginSystem startSystem
+INFO: System exit succesfully.
