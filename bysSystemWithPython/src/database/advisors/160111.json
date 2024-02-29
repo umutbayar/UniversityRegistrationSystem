@@ -1,0 +1,19 @@
+{
+  "lecturerId": "160111",
+  "field": "Mathematics",
+  "Name": "Bernhard Riemann",
+  "password": "111111",
+  "department": "CSE",
+  "email": "b.riemann@gmail.com",
+  "students": [
+    "150069",
+    "150233",
+    "150297",
+    "150310",
+    "150400",
+    "150421",
+    "150430",
+    "150512"
+  ],
+  "drafts": []
+}

@@ -1,0 +1,16 @@
+{
+  "lecturerId": "160333",
+  "field": "Computer Scientist",
+  "Name": "Alan Turing",
+  "password": "111111",
+  "department": "CSE",
+  "email": "a.turing@gmail.com",
+  "students": [
+    "150031",
+    "150101",
+    "150111",
+    "150333",
+    "150444"
+  ],
+  "drafts": []
+}

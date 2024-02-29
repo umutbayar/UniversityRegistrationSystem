@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE3044",
+  "courseName": "Software Engineering",
+  "courseLecturer": "170111",
+  "students": [],
+  "prerequisite": [
+    "CSE3055"
+  ],
+  "credits": 7,
+  "year": 3
+}

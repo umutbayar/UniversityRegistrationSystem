@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE2260",
+  "courseName": "Principles of Programming Languages",
+  "courseLecturer": "170222",
+  "students": [],
+  "prerequisite": [
+    "CSE1242"
+  ],
+  "credits": 6,
+  "year": 2
+}

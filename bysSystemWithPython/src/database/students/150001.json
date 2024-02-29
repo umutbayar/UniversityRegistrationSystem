@@ -1,0 +1,59 @@
+{
+  "studentId": "150001",
+  "advisorId": "160555",
+  "Name": "Hakan Aktepe",
+  "password": "9991",
+  "year": 3,
+  "gano": 2.97,
+  "email": "hkntepe@gmail.com",
+  "grades": [
+    {
+      "courseCode": "CSE1241",
+      "numberGrade": "90",
+      "letterGrade": "AA",
+      "isPassed": true
+    },
+    {
+      "courseCode": "CSE1242",
+      "numberGrade": "95",
+      "letterGrade": "AA",
+      "isPassed": true
+    },
+    {
+      "courseCode": "CSE2138",
+      "numberGrade": "85",
+      "letterGrade": "BA",
+      "isPassed": true
+    },
+    {
+      "courseCode": "CSE1200",
+      "numberGrade": "50",
+      "letterGrade": "CC",
+      "isPassed": true
+    },
+    {
+      "courseCode": "CSE2023",
+      "numberGrade": "60",
+      "letterGrade": "CB",
+      "isPassed": true
+    },
+    {
+      "courseCode": "CSE2225",
+      "numberGrade": "70",
+      "letterGrade": "BB",
+      "isPassed": true
+    },
+    {
+      "courseCode": "CSE2260",
+      "numberGrade": "60",
+      "letterGrade": "CB",
+      "isPassed": true
+    },
+    {
+      "courseCode": "CSE2246",
+      "numberGrade": "84",
+      "letterGrade": "BA",
+      "isPassed": true
+    }
+  ]
+}

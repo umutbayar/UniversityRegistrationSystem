@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE4219",
+  "courseName": "Principles of Embedded System Design",
+  "courseLecturer": "170222",
+  "students": [],
+  "prerequisite": [
+    "CSE3038"
+  ],
+  "credits": 6,
+  "year": 4
+}

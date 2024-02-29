@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE3264",
+  "courseName": "Formal Languages and Automata Theory",
+  "courseLecturer": "170111",
+  "students": [],
+  "prerequisite": [
+    "CSE2023"
+  ],
+  "credits": 5,
+  "year": 3
+}

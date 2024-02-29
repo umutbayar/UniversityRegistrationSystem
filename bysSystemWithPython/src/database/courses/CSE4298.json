@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE4298",
+  "courseName": "Engineering Project 2",
+  "courseLecturer": "170111",
+  "students": [],
+  "prerequisite": [
+    "CSE4297"
+  ],
+  "credits": 5,
+  "year": 4
+}

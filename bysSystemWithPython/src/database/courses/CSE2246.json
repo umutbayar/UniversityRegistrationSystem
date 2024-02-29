@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE2246",
+  "courseName": "Analysis of Algorithms",
+  "courseLecturer": "170555",
+  "students": [],
+  "prerequisite": [
+    "CSE2225"
+  ],
+  "credits": 6,
+  "year": 2
+}

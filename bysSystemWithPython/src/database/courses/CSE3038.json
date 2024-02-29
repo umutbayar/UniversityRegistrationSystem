@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE3038",
+  "courseName": "Computer Organization",
+  "courseLecturer": "170333",
+  "students": [],
+  "prerequisite": [
+    "CSE2138"
+  ],
+  "credits": 7,
+  "year": 3
+}

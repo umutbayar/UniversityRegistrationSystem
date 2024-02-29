@@ -1,0 +1,19 @@
+{
+  "lecturerId": "160444",
+  "field": "Computer Programmer",
+  "Name": "Ada Lovelace",
+  "password": "111111",
+  "department": "CSE",
+  "email": "a.lovelace@gmail.com",
+  "students": [
+    "150123",
+    "150500",
+    "150510",
+    "150532",
+    "150545",
+    "150587",
+    "150621",
+    "150715"
+  ],
+  "drafts": []
+}

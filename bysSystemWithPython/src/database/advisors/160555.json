@@ -1,0 +1,21 @@
+{
+  "lecturerId": "160555",
+  "field": "Software Engineer",
+  "Name": "Max Levchin",
+  "password": "111111",
+  "department": "CSE",
+  "email": "m.levchin@gmail.com",
+  "students": [
+    "150001",
+    "150002",
+    "150003",
+    "150231",
+    "150755",
+    "150820",
+    "150910",
+    "150920",
+    "150941",
+    "150953"
+  ],
+  "drafts": []
+}

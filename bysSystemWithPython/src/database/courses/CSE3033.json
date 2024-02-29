@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE3033",
+  "courseName": "Operating Systems",
+  "courseLecturer": "170222",
+  "students": [],
+  "prerequisite": [
+    "CSE2225"
+  ],
+  "credits": 7,
+  "year": 3
+}

@@ -1,0 +1,20 @@
+{
+  "lecturerId": "160222",
+  "field": "Computer Scientist",
+  "Name": "John von Neumann",
+  "password": "111111",
+  "department": "CSE",
+  "email": "j.v.neumann@gmail.com",
+  "students": [
+    "150090",
+    "150222",
+    "150555",
+    "150666",
+    "150771",
+    "150813",
+    "150911",
+    "150930",
+    "150999"
+  ],
+  "drafts": []
+}

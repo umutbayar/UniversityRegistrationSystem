@@ -1,0 +1,11 @@
+{
+  "courseCode": "CSE3055",
+  "courseName": "Database Systems",
+  "courseLecturer": "170333",
+  "students": [],
+  "prerequisite": [
+    "CSE2225"
+  ],
+  "credits": 7,
+  "year": 3
+}
